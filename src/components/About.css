@@ -1,0 +1,471 @@
+.AboutSection {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 100px 56px;
+    gap: 68px;
+    height: 828px;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+    width: 1349px;
+}
+.titlesAbout {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    margin: 0 auto;
+
+    height: 84px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.titlesAbout-rtl{
+   margin-left: 120px;
+}
+.titleAbout-rtl{
+    margin-left: 120px;
+ }
+.titleAbout {
+    height: 28px;
+    font-family: 'IBM Plex Sans Arabic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #3C6085;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.AboutHeading {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 700px;
+    height: 84px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.AboutHeading-rtl{
+    flex-direction: row-reverse;
+    padding-left: 20px;
+}
+.title2About {
+
+    height: 48px;
+
+    font-family: 'IBM Plex Sans Arabic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #0A2540;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.textabout {
+
+    width: 134px;
+    height: 24px;
+    font-family: 'IBM Plex Sans Arabic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+.textabout-rtl{
+padding-left: 30px;
+font-size: 20px;
+}
+.Aboutbtn {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 8px;
+    margin: 0 auto;
+    height: 56px;
+    background: #635BFF;
+    border-radius: 8px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+.AboutSection1{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+width: 1228px;
+height: 356px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.AboutSection1-rtl{
+    flex-direction: row-reverse;
+}
+ .mainAboutheadings{
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+height: 356px;
+flex: none;
+order: 0;
+flex-grow: 1;
+
+}
+.first-About{
+  
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12px;
+gap: 8px;
+
+width: 399px;
+height: 210px;
+flex: none;
+order: 1;
+flex-grow: 1;
+ }
+ .first-About-rtl{
+    text-align: right;
+    margin-right: 10px;
+ }
+ .secondabout-rtl{
+    text-align: right;
+  
+ }
+ .maineading2-rtl{
+    direction: rtl;
+ }
+
+.About-title{
+
+width: 77px;
+height: 34px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 34px;
+
+display: flex;
+align-items: center;
+color: #635BFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.About-description{
+width: 399px;
+height: 168px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #0A2540;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.straightline{
+
+width: 2px;
+height: 210px;
+background: #A19DFF;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.straightline-rtl{
+     margin-left: 410px;
+     direction: rtl;
+}
+.straightline2-rtl{
+    direction: rtl;
+}
+
+.maineading2{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 417px;
+height: 114px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.straightline2{
+
+width: 2px;
+height: 114px;
+background: #A19DFF;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+
+.secondabout{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 399px;
+height: 114px;
+flex: none;
+order: 1;
+flex-grow: 1;
+
+}
+.second-about-title{
+width: 203px;
+height: 34px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 34px;
+display: flex;
+align-items: center;
+color: #635BFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.second-about-description{
+width: 399px;
+height: 72px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #0A2540;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+
+img{
+
+width: 790px;
+height: 356px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.logosection{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 16px;
+width: 1240px;
+height: 68px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.logosection-rtl{
+    flex-direction: row-reverse;
+ }
+.Fursan{
+margin: 0 auto;
+width: 180.87px;
+height: 68px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.mobily{
+margin: 0 auto;
+width: 149.1px;
+height: 68px;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.zain{
+margin: 0 auto;
+width: 56.98px;
+height: 68px;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.mokafa{
+display: flex;
+margin: 0 auto;
+width: 162.97px;
+height: 68px;
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.stc{
+margin: 0 auto;
+width: 136.12px;
+height: 68px;
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+.jarir{
+margin: 0 auto;
+width: 278.88px;
+height: 68px;
+flex: none;
+order: 5;
+flex-grow: 0;
+}
+@media screen and (max-width: 375px){
+    .AboutSection{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 48px 16px;
+gap: 32px;
+width: 375px;
+height: 898px;
+    }
+    .titlesAbout{
+width: 343px;
+height: 172px;
+    }
+    .titleAbout{
+width: 343px;
+height: 32px;
+    }
+    .title2About{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+width: 343px;
+height: 132px;
+    }
+    .Aboutbtn{
+        display: none;
+    }
+    .AboutSection1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 46px;
+width: 343px;
+height: 638px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+    }
+    .logosection{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+width: 1328px;
+height: 76px;
+flex: none;
+order: 0;
+flex-grow: 0;
+    }
+    .mainAboutheadings{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 52px;
+width: 343px;
+height: 536px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+    }
+    img{
+width: 343px;
+height: 100px;
+
+    }
+.straightline{
+    height: 230px;
+}
+.About-description{
+width: 325px;
+height: 216px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.second-about-description{
+width: 325px;
+height: 216px;
+}
+}

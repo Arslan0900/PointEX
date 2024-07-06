@@ -1,0 +1,26 @@
+.Pic-section{
+   width: 1349px;
+height: 248px;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.pic-section-2{
+    display: none;
+}
+@media screen and (max-width: 375px){
+    .Pic-section{
+        display: none;
+    }
+    .pic-section-2{
+
+/* Frame 116 */
+
+
+width: 375px;
+height: 552px;
+
+
+
+    }
+}

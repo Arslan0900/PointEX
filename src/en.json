@@ -1,0 +1,93 @@
+
+{
+    "navbar": {
+      "ourProduct": "Our Product",
+      "howItWorks": "How it works?",
+      "features": "Features",
+      "partners": "Partners",
+      "stories": "Stories",
+      "becomePartner": "Become a Partner!",
+      "contactUs": "Contact us",
+      "language": "العربية"
+    }
+    ,
+    
+      "hero": {
+        "mainText": "Your Loyalty Rewards, All Under One Roof.",
+        "downloadApp": "Download App"
+      }, 
+      
+        "features": {
+          "title": "Discover the Heartbeat of your rewards",
+          "subtitle": "Features",
+          "allInOneHub": "All-in-One Hub",
+          "allInOneHubDescription": "Consolidate your points from multiple partners here, providing a comprehensive 360-degree view.",
+          "phoneNumberKey": "Your Phone Number is the Key",
+          "phoneNumberKeyDescription": "With your mobile number, you can perform a range of actions: register, transfer, and earn!",
+          "earnAndTransfer": "Earn from All & Transfer to Any",
+          "earnAndTransferDescription": "Effortlessly earn rewards from all registered partners and redeem them with any of them.",
+          "voucherFriendly": "Voucher Friendly",
+          "voucherFriendlyDescription": "Generate and utilize valuable vouchers that are accepted by a wide range of partners."
+        },
+  "discoverMagic": "Discover the magic behind our product",
+  "howItWorks": "How PointEX works?",
+  "step1": {
+    "title": "Register",
+    "description": "Register in one step by phone number"
+  },
+  "step2": {
+    "title": "Transfer",
+    "description": "Transfer PointEX to registered partners"
+  },
+  "step3": {
+    "title": "View",
+    "description": "Have 360 view of registered partners points"
+  },
+  "step4": {
+    "title": "Redeem",
+    "description": "Redeem Rewards, Reap the Benefits!"
+  },
+  
+    "aboutTitle": "Elivate Excellence Together",
+    "aboutSubtitle": "Meet Our Valued Partner!",
+    "becomePartner": "Become A Partner",
+    "aboutSection1": {
+      "title": "About..",
+      "description": "AlFursan members enjoy a world of benefits: reward tickets, lounge access, extra luggage, priority wait-listing, and more. Plus, as a Saudia SkyTeam member, you can earn and redeem miles globally. Explore offers from our exclusive partners, including SkyTeam airlines, banks, hotels, car rentals, and telecom, to boost your miles and enhance your AlFursan experience."
+    },
+    "aboutSection2": {
+      "title": "How to gain points?",
+      "description": "Join AlFursan for exclusive rewards, lounge access, extra baggage, and faster holiday redemptions with Silver and Gold Tiers."
+    },
+    
+    "blog": {
+      "sparkImagination": "Stories that Spark Imagination",
+      "ourBlog": "Our Blog",
+      "blogTitle": "Blog Title",
+      "blogDescription": "In this pivotal stage of our process, we take your ideas and aspirations and weave them into a tapestry of innovation.",
+      "blogDate": "{{author}} - {{date}}",
+      "authorName": "Abdullah Nasser",
+      "date": "1 Oct 2023"
+    },
+    "newsletter": {
+      "unlockSecrets": "Unlock the Secrets",
+      "joinNewsletter": "Join Our Newsletter for Exclusive Insights!",
+      "enterEmail": "Enter Your Email",
+      "subscribe": "Subscribe"
+    },
+    "navbar-footer": {
+      "product": "Our Product",
+      "downloadApp": "Download App",
+      "terms": "Terms & Conditions",
+      "becomePartner": "Become a Partner",
+      "contactUs": "Contact us",
+      "language": "العربية"
+    }
+  
+    
+    
+}
+
+    
+  
+  

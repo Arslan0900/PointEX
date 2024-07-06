@@ -1,0 +1,214 @@
+.main-features{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 100px 56px;
+gap: 68px;
+height: 300px;
+background: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-bottom: 300px;
+width: 1349px;
+}
+.feature-1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+width: 316px;
+height: 84px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.feature-1-rtl{
+    align-items: flex-end;
+    padding-left: 1250px;
+}
+.feature-text-1-rtl{
+    align-items: flex-end;
+    padding-left: 150px;
+}
+.feature-text-1{
+width: 316px;
+height: 28px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+display: flex;
+align-items: center;
+color: #3C6085;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.feature-text-2{
+width: 132px;
+height: 48px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+display: flex;
+align-items: center;
+color: #0A2540;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.features-gif{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+height: 264px;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+.gif-video{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 24px;
+margin: 0 auto;
+width: 300px;
+height: 264px;
+flex: none;
+order: 0;
+flex-grow: 1;
+}
+.gif-video-1{
+width: 124px;
+height: 124px;
+background: url(D:\figma-website\figma-project\public\Demo-1.png);
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.features-textdetails{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 316px;
+    height: 116px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    }
+    .features-textdetails-1{
+width: 270px;
+height: 28px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+display: flex;
+align-items: center;
+padding-bottom: 25px;
+color: #0A2540;
+flex: none;
+order: 0;
+flex-grow: 0;
+    }
+    
+    .features-textdetails-2{
+width: 316px;
+height: 72px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #0A2540;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+    }
+    
+    .features-textdetails-2-rtl{
+width: 218.31px;
+height: 48px;
+min-height: 48px;
+max-height: 48px;
+font-family: 'IBM Plex Sans Arabic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+    }
+    .gif-video-2{
+        width: 124px;
+        height: 124px;
+        background: url(D:\figma-website\figma-project\public\demo2.png);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        }
+        .gif-video-3{
+            width: 124px;
+            height: 124px;
+            background: url(D:\figma-website\figma-project\public\demo3.png);
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            }
+            .gif-video-4{
+                width: 124px;
+                height: 124px;
+                background: url(D:\figma-website\figma-project\public\demo4.png);
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                }
+                
+                @media screen and (max-width: 375px){ 
+                    .main-features{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 46px 16px;
+gap: 32px;
+width: 375px;
+height: 998px;
+flex: none;
+order: 0;
+flex-grow: 0;
+                    }
+.features-gif{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+width: 343px;
+height: 1080px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+    }
+}
